@@ -1,5 +1,5 @@
 [![Gem Version](https://badge.fury.io/rb/anetwork_dynamicad.svg)](https://badge.fury.io/rb/anetwork_dynamicad)
-[![Total Downloads](http://ruby-gem-downloads-badge.herokuapp.com/anetwork_dynamicad)](https://rubygems.org/gems/anetwork_dynamicad)
+[![Total Downloads](http://ruby-gem-downloads-badge.herokuapp.com/anetwork_dynamicad/0.0.1)](https://rubygems.org/gems/anetwork_dynamicad)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/iamalirezaj/dynamicad/badges/quality-score.png?b=develop)](https://scrutinizer-ci.com/g/iamalirezaj/dynamicad/)
 [![Join the chat at https://gitter.im/anetwork/dynamicad-php-client](https://badges.gitter.im/anetwork/dynamicad-php-client.svg)](https://gitter.im/anetwork/dynamicad-php-client?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
