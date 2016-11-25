@@ -1,3 +1,8 @@
+[![Gem Version](https://badge.fury.io/rb/anetwork_dynamicad.svg)](https://badge.fury.io/rb/anetwork_dynamicad)
+[![Total Downloads](http://ruby-gem-downloads-badge.herokuapp.com/anetwork_dynamicad)](https://rubygems.org/gems/anetwork_dynamicad)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/iamalirezaj/dynamicad/badges/quality-score.png?b=develop)](https://scrutinizer-ci.com/g/iamalirezaj/dynamicad/)
+[![Join the chat at https://gitter.im/anetwork/dynamicad-php-client](https://badges.gitter.im/anetwork/dynamicad-php-client.svg)](https://gitter.im/anetwork/dynamicad-php-client?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Hey, this is Anetwork Dynamicad Ruby client, if you want to test our REST API or want to use it as fast as possible this package is for you, with this package you can simply fetch your products, update them, delete them and finally manage your products logo. here is how we do it.
 
 # Support
