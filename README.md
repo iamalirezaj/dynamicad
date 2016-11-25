@@ -45,9 +45,9 @@ Following Dynamicad structure you should post ```id```, ```title```, ```image```
 
 ```ruby
 data = {
-    id: abc',
+    id: 'abc',
     title: 'this is title',
-    url: http://google.com',
+    url: 'http://google.com',
     image: 'http://i.telegraph.co.uk/multimedia/archive/03589/Wellcome_Image_Awa_3589699k.jpg'
 }
 
@@ -117,7 +117,7 @@ You can also update your products logo with ```id``` as required field:
 ```ruby
 $data = {
     id: 'abc',
-    default: '1',
+    default: 1,
     image: 'http://i.telegraph.co.uk/multimedia/archive/03589/Wellcome_Image_Awa_3589699k.jpg'
  }
 
